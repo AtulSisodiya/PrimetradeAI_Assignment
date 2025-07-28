@@ -22,6 +22,7 @@ This project explores the relationship between trader behavior on the **Hyperliq
 ---
 
 ## Project Structure
+---
 ├── needed/
 │ ├── fear_greed_index.csv # Market sentiment data
 │ └── historical_data.csv # Hyperliquid platform trading data
